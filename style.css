@@ -302,6 +302,7 @@ nav a{
     width:100px;
     height:40px;
     font-size:.9rem;
+    margin: 0 30px;
 }
 .form-box{
     padding:25px;
